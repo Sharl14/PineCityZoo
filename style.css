@@ -145,3 +145,52 @@ a.info-box {
 #info-box-full h3 {
   text-align: center;
 }
+
+/*=======WEATHER=======*/
+img.info-box-weather-icon {
+  width: 30px !important;
+  height: 30px;
+  float: left;
+  margin: 10px;
+}
+h1.info-box-weather-icon {
+  font-size: 65px;
+  font-weight: 200;
+  margin: 0px;
+  padding: 0px;
+}
+
+table {
+  width: 100%;
+}
+td {
+  border-top: 1px solid #131313;
+}
+
+/*=======FEEDBACK=======*/
+input {
+  width: 100%;
+  height: 25px;
+  margin: 12px 0px;
+  border: 1px solid #929292;
+}
+textarea {
+  width: 100%;
+  height: 65px;
+  margin: 12px 0px;
+  border: 1px solid #929292;
+}
+.button {
+  display: block;
+  width: 100%;
+  height: 30px;
+  background-color: forestgreen;
+  text-decoration: none;
+  color: white;
+  text-align: center;
+  line-height: 30px;
+  font-weight: 600;
+  margin: 12px, 0px;
+  font-size: 16px;
+  padding: 8px, 0px;
+}
