@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets"
+        xmlns:cdv="https://volt.build"
+        id="com.example.myapp"
+        version="1.0.0">
+    <name>PineCityZoo</name>
+    <description>
+      PineCityZoo is a mobile application that provides users with information about the Pine City Zoo, including animal details, zoo maps, and event schedules.
+    </description>
+    <author email="sharlenepillay14@gmail.com">
+        Sharlene Pillay
+        </author>
+        </widget>
